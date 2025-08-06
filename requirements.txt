@@ -3,7 +3,7 @@ gitdb
 pathlib
 defusedxml
 ipython
-numpy
+numpy==1.26.4
 future
 pillow
 zlib
@@ -90,6 +90,7 @@ jsonpointer
 rfc3339-validator
 jsonschema-specifications
 pyparsing
+
 
 
 
