@@ -23,3 +23,8 @@ The Streamlit dashboard allows users to interactively predict housing prices bas
 Users can input key features such as location, property type, size, and other relevant details. 
 The dashboard then uses the pre-trained Random Forest model to generate an accurate price prediction, 
 providing a valuable tool for anyone interested in the Lisbon real estate market.
+
+[ Dashboard Screenshot using Streamlit ] 
+
+<img width="1880" height="895" alt="image" src="https://github.com/user-attachments/assets/0586ce76-0b8c-460c-ba74-a2cc47462b36" />
+
