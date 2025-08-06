@@ -52,7 +52,7 @@ deprecation
 referencing
 traitlets
 markupsafe
-joblib
+joblib==1.2.0
 lz4
 distributed
 psutil
@@ -90,6 +90,7 @@ jsonpointer
 rfc3339-validator
 jsonschema-specifications
 pyparsing
+
 
 
 
