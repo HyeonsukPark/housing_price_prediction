@@ -7,7 +7,7 @@ import joblib
 
 @st.cache_resource
 def load_model():
-    ml_model = joblib.load('./models/rf_model.joblib')
+    ml_model = joblib.load('rf_model.joblib')
     return ml_model
 
 model = load_model()
@@ -172,6 +172,7 @@ if st.sidebar.button("Predict Price"):
 
     # display the result
     st.success(f"The predicted housing price is: **€ {prediction[0]:,.2f}**")
+
 
 
 
