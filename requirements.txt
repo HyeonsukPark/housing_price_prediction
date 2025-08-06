@@ -36,7 +36,6 @@ mypy~=1.8.0
 scipy~=1.11.4
 threadpoolctl~=2.2.0
 dask~=2023.11.0
-torch~=2.5.1+cu124
 matplotlib~=3.10.0
 blas~=1.0
 cvxopt~=1.3.2
@@ -89,4 +88,5 @@ graphviz~=0.21
 jsonpointer~=2.1
 rfc3339-validator~=0.1.4
 jsonschema-specifications~=2023.7.1
+
 pyparsing~=3.0.9
