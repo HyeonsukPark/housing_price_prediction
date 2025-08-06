@@ -358,7 +358,7 @@ s3fs @ file:///C:/b/abs_24vbfcawyu/croot/s3fs_1701294224436/work
 s3transfer==0.10.3
 safetensors==0.4.5
 scikit-image @ file:///C:/b/abs_f7z1pjjn6f/croot/scikit-image_1707346180040/work
-scikit-learn @ file:///C:/b/abs_0dwalqot3o/croot/scikit-learn_1737988780693/work/dist/scikit_learn-1.6.1-cp311-cp311-win_amd64.whl#sha256=3831d50149a042d5cbe4e92ee145cdf4609ae45b590b405ff3ae763be11d9fd5
+scikit-learn==1.6.1
 scipy==1.11.4
 Scrapy @ file:///C:/ci_311/scrapy_1678502587780/work
 seaborn @ file:///C:/ci_311/seaborn_1676446547861/work
@@ -467,6 +467,7 @@ zict @ file:///C:/b/abs_780gyydtbp/croot/zict_1695832899404/work
 zipp @ file:///C:/b/abs_b0beoc27oa/croot/zipp_1704206963359/work
 zope.interface @ file:///C:/ci_311/zope.interface_1676439868776/work
 zstandard==0.19.0
+
 
 
 
