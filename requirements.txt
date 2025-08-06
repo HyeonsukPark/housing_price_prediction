@@ -6,7 +6,6 @@ ipython
 numpy==1.26.4
 future
 pillow
-zlib
 jupyter
 pip
 panel
@@ -90,6 +89,7 @@ jsonpointer
 rfc3339-validator
 jsonschema-specifications
 pyparsing
+
 
 
 
