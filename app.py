@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-# import numpy as np
+import numpy as np
 import joblib
 
 # Load the trained model
@@ -172,6 +172,7 @@ if st.sidebar.button("Predict Price"):
 
     # display the result
     st.success(f"The predicted housing price is: **€ {prediction[0]:,.2f}**")
+
 
 
 
