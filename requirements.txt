@@ -168,7 +168,7 @@ jedi @ file:///C:/ci_311/jedi_1679427407646/work
 jellyfish @ file:///C:/b/abs_50kgvtnrbj/croot/jellyfish_1695193564091/work
 Jinja2 @ file:///C:/b/abs_f7x5a8op2h/croot/jinja2_1706733672594/work
 jmespath @ file:///C:/b/abs_59jpuaows7/croot/jmespath_1700144635019/work
-joblib
+joblib==1.2.0
 json5 @ file:///tmp/build/80754af9/json5_1624432770122/work
 jsonpatch @ file:///tmp/build/80754af9/jsonpatch_1615747632069/work
 jsonpointer==2.1
@@ -467,6 +467,7 @@ zict @ file:///C:/b/abs_780gyydtbp/croot/zict_1695832899404/work
 zipp @ file:///C:/b/abs_b0beoc27oa/croot/zipp_1704206963359/work
 zope.interface @ file:///C:/ci_311/zope.interface_1676439868776/work
 zstandard==0.19.0
+
 
 
 
