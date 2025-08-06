@@ -3,6 +3,13 @@ import pandas as pd
 import numpy as np
 import joblib
 
+from sklearn.model_selection import train_test_split
+from sklearn.pipeline import Pipeline
+from sklearn.impute import SimpleImputer
+from sklearn.preprocessing import StandardScaler, OneHotEncoder
+from sklearn.compose import ColumnTransformer
+from sklearn.ensemble import RandomForestRegressor
+
 # Load the trained model
 
 @st.cache_resource
@@ -172,6 +179,7 @@ if st.sidebar.button("Predict Price"):
 
     # display the result
     st.success(f"The predicted housing price is: **€ {prediction[0]:,.2f}**")
+
 
 
 
