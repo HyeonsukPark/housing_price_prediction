@@ -88,7 +88,8 @@ jsonpointer>=2.1
 rfc3339-validator>=0.1.4
 jsonschema-specifications>=2023.7.1
 pyparsing>=3.0.9
-python>=3.7
+python==3.10.9
+
 
 
 
