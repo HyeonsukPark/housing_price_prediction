@@ -6,7 +6,6 @@ ipython
 numpy
 future
 pillow
-zlib
 jupyter
 pip
 panel
@@ -90,3 +89,4 @@ rfc3339-validator
 jsonschema-specifications
 pyparsing
 Seaborn
+
