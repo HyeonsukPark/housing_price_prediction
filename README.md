@@ -25,6 +25,8 @@ The dashboard then uses the pre-trained Random Forest model to generate an accur
 providing a valuable tool for anyone interested in the Lisbon real estate market.
 
 [ Dashboard Screenshot using Streamlit ] 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)][(https://<your-custom-subdomain>.streamlit.app)](https://housingpriceprediction-ku8ewkgjm8v38dldasgfhf.streamlit.app/)
 
 <img width="1880" height="895" alt="image" src="https://github.com/user-attachments/assets/0586ce76-0b8c-460c-ba74-a2cc47462b36" />
+
 
