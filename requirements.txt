@@ -13,7 +13,6 @@ attrs
 distro
 wheel
 pysocks
-openssl
 pyopenssl
 cryptography
 docutils
@@ -89,4 +88,5 @@ rfc3339-validator
 jsonschema-specifications
 pyparsing
 Seaborn
+
 
